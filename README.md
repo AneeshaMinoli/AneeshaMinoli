@@ -124,22 +124,6 @@ const aneesha = {
 
 ---
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AneeshaMinoli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF85A1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneeshaminoli)
-[![Email](https://img.shields.io/badge/Email-FFD1DC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneeshaminoli@gmail.com)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
 ## 👀 Profile Views
 
 <div align="center">
